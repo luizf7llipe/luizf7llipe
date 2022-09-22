@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://instagram.fplu33-1.fna.fbcdn.net/v/t51.2885-19/301884916_446466437409585_7159520612011962971_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fplu33-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=plUZ6LrkwPcAX8e-CdO&tn=aZsymGZdcQ_K7feT&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9ICgtn5xwL8tQUp1h4BN2X6gTcL8pz8GzCEG1TEsX12A&oe=633323FA&_nc_sid=8fd12b"  />
 
 ###
 
@@ -29,6 +29,8 @@
  
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
 
 ###
